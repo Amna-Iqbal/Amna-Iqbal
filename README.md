@@ -70,7 +70,7 @@ My earliest projects focused on building beautiful, responsive, and pixel-perfec
 
 ## Key Skills & Technologies
 
-This is a summary of the key technologies and concepts I have applied across my 38+ projects.
+This is a summary of the key technologies and concepts I have applied across my 25+ projects.
 
 | Category | Skills & Concepts |
 | :--- | :--- |
