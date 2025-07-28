@@ -6,9 +6,10 @@ I'm a recent Computer Science graduate with a passion for building robust, full-
 
 ### 🚀 My Portfolio & Key Projects
 
-My entire learning path, featuring over 25 projects, is documented in my portfolio repository.
+My entire learning path, featuring over 25 projects, is documented in my main portfolio repository. My most significant project is my full-stack Final Year Project, "StudyCircle."
 
-➡️ **[Explore my Web Development Journey](https://github.com/Amna-Iqbal/My-Web-Dev-Journey)**
+-   ➡️ **[Explore my Full Development Journey Here](https://github.com/Amna-Iqbal/My-Web-Dev-Journey)**
+-   🏆 **[Watch the Showcase for my Final Year Project (StudyCircle Platform)](https://vimeo.com/1104307988?share=copy)**
 
 ---
 
